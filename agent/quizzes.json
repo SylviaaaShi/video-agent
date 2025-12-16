@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "What has keys but can’t open any doors?",
+    "options": {
+      "A": "A map",
+      "B": "A piano",
+      "C": "A lock",
+      "D": "A keyboard"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "What gets wetter the more it dries?",
+    "options": {
+      "A": "A sponge",
+      "B": "Water",
+      "C": "A cloud",
+      "D": "A towel"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "What has a head and a tail but no body?",
+    "options": {
+      "A": "A snake",
+      "B": "A comet",
+      "C": "A coin",
+      "D": "A bird"
+    },
+    "answer": "C"
+  }
+]
